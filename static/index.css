@@ -112,7 +112,7 @@ body {
     left: 0;
     width: 100%;
     text-align: center;
-    color: rgb(233, 138, 131);
+    color: rgb(180, 225, 246);
     font-size: 4em;
     text-shadow: 0 0 3px #fff, 0 0 3px #fff, 0 0 3px #fff;
     overflow: hidden;
@@ -146,7 +146,7 @@ body {
 .t4,
 .t5 {
     background-size: auto 100%;
-    background-image: url(./image/ClickBefore.png);
+    background-image: url(./image/3.png);
 }
 
 .tt1,
